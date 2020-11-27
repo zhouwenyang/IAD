@@ -10,7 +10,7 @@
 
 5. 开发人员打开codespace并拉取最新代码，拉取代码后创建一个feature分支。进行业务逻辑的开发。
 
-6. 开发人员在修改代码的时候同时可以邀请其他人员协同进行代码编辑 (liveshare)
+6. 开发人员在修改代码的时候同时可以邀请其他人员协同进行代码编辑(zhouwenyang添加appointment菜单，位置是否ok？ langzixuehu 直接将位置替换到了join us之前，zhouwenyang保存) (liveshare)
 
 7. 开发人员修改完业务逻辑，进行代码提交，并关联ADS开发任务，同时fixed AB#编号 将任务自动改为已完成。
 
