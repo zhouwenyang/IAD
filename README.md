@@ -1,5 +1,7 @@
 ## IAD Demo Scripts
 
+0. 介绍ADS+GITHUB
+
 1. 打开healthclinic WEB门户，介绍healthclinic诊所(提供网上挂号、预约、病逝查询、在线支付等业务)
 
 2. 业务部们提出了一个新的需求，需要支持 "患者在线预约服务"， 需要快速上线
@@ -24,4 +26,6 @@
 
 12. 手工部署到生产环境。
 
-13. 运维人员通过Application Insight监控生产环境信息（用户、Session、请求、失败请求、日志分析、bug分析）
+13. 运维人员通过Application Insight监控生产环境信息（用户、Session、请求、失败请求、日志分析、bug分析），性能问题动态调整。
+
+14. 总结
