@@ -24,4 +24,4 @@
 
 12. 手工部署到生产环境。
 
-13. 运维人员通过Application Insight监控生产环境信息（请求、失败请求、日志分析）
+13. 运维人员通过Application Insight监控生产环境信息（用户、Session、请求、失败请求、日志分析、bug分析）
